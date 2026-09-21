@@ -1,0 +1,9 @@
+<resources>
+    <color name="purple_700">#6D4BC2</color>
+    <color name="purple_500">#7B57D1</color>
+    <color name="lavender">#F2EAFB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text">#282235</color>
+    <color name="muted">#716B7D</color>
+    <color name="danger">#E5484D</color>
+</resources>
